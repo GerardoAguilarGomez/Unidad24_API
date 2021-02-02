@@ -1,4 +1,3 @@
-# Unidad24_API
 
 - Swagger
 https://prnt.sc/y0fvli
@@ -13,4 +12,3 @@ https://prnt.sc/y0gahf
 https://prnt.sc/y0ggc7
 
 - Delete
-https://prnt.sc/y0gl1n
